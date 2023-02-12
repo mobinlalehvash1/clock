@@ -1,2 +1,3 @@
 # clock
-clock project
+
+this is a Simple digital clock
